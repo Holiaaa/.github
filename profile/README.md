@@ -2,9 +2,9 @@
 
 I'm Holiaaa, i'm a 18yo developer.
 
-👩‍💻 I'm currently working on **Data Science subjects** !
+👩‍💻 I'm currently working on **EEA / CS subjects** !
 
-🧠 I'm currently learning **Python and Numpy** !
+🧠 I'm currently learning **Python and C++** !
 
-🌟 I'm interested in **Quantitative Economy & Data Science & ML/AI**
+🌟 I'm interested in **ESP32 projects!**
 
